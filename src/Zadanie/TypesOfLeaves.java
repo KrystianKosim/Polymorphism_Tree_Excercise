@@ -1,4 +1,4 @@
-package Zadanie1;
+package Zadanie;
 
 /**
  * W tym enumie sa zawarte dopuszczalne rodzaje lisci na drzewach

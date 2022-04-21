@@ -1,4 +1,4 @@
-package Zadanie1;
+package Zadanie;
 
 /**
  * Klasa Trunk posiadająca pola określające wiek oraz szerkosć Pnia

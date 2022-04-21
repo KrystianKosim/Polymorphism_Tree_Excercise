@@ -1,4 +1,4 @@
-package Zadanie1;
+package Zadanie;
 
 /**
  * Klasa DeciduousTree, ktora dziedziczy po klasie Tree

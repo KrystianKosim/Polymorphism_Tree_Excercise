@@ -1,4 +1,4 @@
-package Zadanie1;
+package Zadanie;
 
 /**
  * Klasa Leaf posiadajaca dwa pola w ktorych jest zawarty rodzaj danego liscia oraz jego rozmiar
